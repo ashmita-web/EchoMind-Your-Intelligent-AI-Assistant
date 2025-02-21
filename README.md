@@ -29,6 +29,4 @@ Run the main script: `python main.py`
 
 Contributions are welcome!  Please open an issue or submit a pull request.
 
-## License
 
-(Add a license if you want, e.g., MIT License)
